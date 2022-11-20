@@ -1,0 +1,8 @@
+"APP_NAME" = "Number Fact Demo";
+"YOUR_NUMBER" = "Your number";
+"GET_FACT_NUMBER" = "Get fact about input number";
+"GET_FACT_RANDOM_NUMBER" = "Get fact about random number";
+"ENTER_THE_NUMBER" = "Please enter the number";
+"OK" = "OK";
+"ERROR" = "An error has occurred";
+

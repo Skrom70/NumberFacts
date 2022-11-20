@@ -1,0 +1,7 @@
+"APP_NAME" = "Number Fact Demo";
+"YOUR_NUMBER" = "Ваше число";
+"GET_FACT_NUMBER" = "Факт про число";
+"GET_FACT_RANDOM_NUMBER" = "Факт про випадкове число";
+"ENTER_THE_NUMBER" = "Будь-ласка введить число";
+"OK" = "OK";
+"ERROR" = "Виникла помилка";
